@@ -22,4 +22,9 @@ pnpm-debug.log*
 *.sln
 *.sw?
 
-lib
+examples
+public
+*.tgz
+vue.config.js
+babel.config.js
+.gitignore

@@ -1,24 +1,17 @@
 # lucky-turning
+一个基于Vue2.0的幸运大转盘抽奖组件
 
-## Project setup
+## 运行项目先
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 运行例子
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 构建库
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
